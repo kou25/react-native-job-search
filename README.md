@@ -3,7 +3,7 @@
 
 ## 📝 Demo
 
-[![Watch the video]](https://vimeo.com/830133436?share=copy)
+[![Watch the video](./demo.gif)](https://vimeo.com/830133436?share=copy)
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
